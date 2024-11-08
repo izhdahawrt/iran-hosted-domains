@@ -6,6 +6,9 @@ These instructions are for [OpenWrt pass wall client](https://github.com/xiaorou
 
 ?> Only tested with Xray core. (v2ray core may work too)
 
+!> iran.dat is officially supported OpenWrt since 23.05
+ Install package `v2ray-geosite-ir` and go to step 3
+ 
 1. Download latest version of [iran.dat](https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/iran.dat).
 
 ```shell
